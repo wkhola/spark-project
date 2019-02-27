@@ -158,7 +158,7 @@
 
                     <classpathScope>compile</classpathScope>
 
-                    <mainClass>com.ibeifeng.sparkproject.App</mainClass>
+                    <mainClass>com.hola.sparkproject.App</mainClass>
 
                 </configuration>
 
